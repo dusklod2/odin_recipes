@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Patua%20One:700|Patua%20One:400');
+
+body{
+    background-color:#faf5f1;
+    color: #0d0c0b;
+    font-family: 'Patua One';
+    font-weight: 400;
+    text-align: justify;
+}
+h1, h2, h3 {
+  font-family: 'Patua One';
+  font-weight: 700;
+  text-align: center;
+}
+
+div{
+    background-color: #e1761e;
+    border:1px solid #8ff089 ;
+    padding: 30px;
+    margin: 10px;
+    border-radius:25px;
+}
+a{
+    color:#0d0c0b;
+    background-color: #e1761e;
+    border: 2px solid #e1761e;
+    padding: 5px;
+    border-radius: 50px;
+    margin:  44% ;
+}
+a:hover{
+    color:#e1761e;
+    background-color: #faf5f1;
+    border: 5px solid #e1761e;
+}
+a:active{
+    color:#faf5f1;
+    background-color: #e1761e;
+    border: 3px solid #e1761e;
+}
+#center{
+    text-align: center;
+}
+
+
+
+
